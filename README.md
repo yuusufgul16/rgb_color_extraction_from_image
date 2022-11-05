@@ -2,7 +2,7 @@
 
 # Proje amacı
 *Projenin amacı*
-Python ve opencv kullanarak resimdeki baskın renkleri buluyoruz. Bulunan renkleri de bir colorbar’da gösteriyoruz ve ardından text dosyası olarak RGB kodlarını kaydediyoruz.Bunu yaparken denetimsiz makine öğrenmesi tekniklerinden biri olan k-means kümeleme algoritmasını kullanıyoruz.
+Python ve **opencv** kullanarak resimdeki baskın renkleri buluyoruz. Bulunan renkleri de bir colorbar’da gösteriyoruz ve ardından text dosyası olarak RGB kodlarını kaydediyoruz.Bunu yaparken denetimsiz makine öğrenmesi tekniklerinden biri olan **k-means kümeleme algoritmasını** kullanıyoruz.
 
 
 <p align="left"> <a href="https://twitter.com/yuusufgul" target="blank"><img src="https://img.shields.io/twitter/follow/yuusufgul?logo=twitter&style=for-the-badge" alt="yuusufgul" /></a> </p>
