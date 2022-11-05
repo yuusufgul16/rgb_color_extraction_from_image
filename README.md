@@ -1,6 +1,5 @@
 <<<<<<< HEAD
 <h1 align="center">Hi 👋, I'm Yusuf</h1>
-<h3 align="center">A passionate frontend developer from Turkey</h3>
 
 <p align="left"> <a href="https://twitter.com/yuusufgul" target="blank"><img src="https://img.shields.io/twitter/follow/yuusufgul?logo=twitter&style=for-the-badge" alt="yuusufgul" /></a> </p>
 
